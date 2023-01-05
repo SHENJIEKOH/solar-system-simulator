@@ -8,7 +8,7 @@ Source: [GIPHY NASA](https://giphy.com/nasa)
 
 
 ## Introduction
-In this project, we use OpenGL library to render the solar system model. The operation keys are shown as below:
+In this project, we use C, C++, and OpenGL library to render the solar system model. The operation keys are shown as below:
 - ```↑/↓```  Move forward/backward
 - ```←/→```  Turn your head to the left/right
 - ```W/A/S/D```  Rotate the view
